@@ -12,8 +12,7 @@ function Texto() {
         sobreviveu não só a cinco séculos, como também ao salto para a
         editoração eletrônica, permanecendo essencialmente inalterado. Se
         popularizou na década de 60, quando a Letraset lançou decalques contendo
-        passagens de Lorem Ipsum, e mais recentemente quando passou a ser
-        integrado a softwares de editoração eletrônica como Aldus PageMaker.
+        
       </p>
     </>
   );
