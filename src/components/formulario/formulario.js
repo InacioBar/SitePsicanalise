@@ -13,6 +13,7 @@ function Formulario() {
             <div className="formulario">
                 <input type="text" value={value} onChange={handleChange} className="form-control"/>
                 <p>O Nome digitado é: {value}</p>
+                <button>Teste de botao</button>
             </div>
             </>
         );
